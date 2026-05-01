@@ -1,0 +1,5 @@
+displayName = Everjade (Fix Tiles Drop)
+author = SoulMinf
+version = 1.0
+
+modReferences = JadeFables
